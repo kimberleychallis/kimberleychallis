@@ -7,4 +7,3 @@
 - 😄 Pronouns: she/her
 - 📺 Currently (re)watching: Battlestar Galactica
 - 📖 Currently reading: *Becoming*, Michelle Obama
--->
