@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a dictionary app using React and Bootstrap
-- 🌱 I’m currently learning React with [SheCodes.io](https://www.shecodes.io)
+- 🔭 I’m currently building a service for landlords using React and GraphQL
+- 🌱 I’m currently learning GraphQL with [The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kimberleychallis/)
 - 😄 Pronouns: she/her
-- 📺 Currently watching: *Arrested Development*
-- 📖 Currently reading: *Becoming*, Michelle Obama
+- 📺 Currently (re)watching: *Buffy the Vampire Slayer*
+- 📖 Currently reading: *How to be an Anti-Racist*, Ibram X. Kendi
