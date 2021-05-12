@@ -6,4 +6,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kimberleychallis/)
 - 😄 Pronouns: she/her
 - 📺 Currently (re)watching: *Buffy the Vampire Slayer*
-- 📖 Currently reading: *How to be an Anti-Racist*, Ibram X. Kendi
+- 📖 Currently reading: *Catch and Kill*, Ronan Farrow
